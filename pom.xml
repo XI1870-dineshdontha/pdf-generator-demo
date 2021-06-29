@@ -44,11 +44,6 @@
 			<version>${itext.pdfhtml.version}</version>
 		</dependency>
 		<dependency>
-			<groupId>com.itextpdf.dito</groupId>
-			<artifactId>sdk-java</artifactId>
-			<version>${dito.sdk.version}</version>
-		</dependency>
-		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-freemarker</artifactId>
 		</dependency>
